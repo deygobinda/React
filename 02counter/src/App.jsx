@@ -20,9 +20,9 @@ function App() {
     <>
       <h1>Chi or react</h1>
       <h2>Counter value : {counter}</h2>
-
       <button
         onClick={addvalue}>Add value {counter}</button>
+      <br />
       <br />
       <button onClick={removeVlaue}>Remove {counter} </button>
       <p>footer : {counter}</p>
