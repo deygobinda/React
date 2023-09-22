@@ -61,7 +61,7 @@ function App() {
               value={length}
               className='cursor-pointer'
               onChange={(e) => { setLength(e.target.value) }} />
-            <label>Length : {length}</label>
+            <label className='w-20'>Length : {length}</label>
           </div>
 
           <div className='flex items-center gap-x-1 '>
