@@ -47,8 +47,8 @@ export default function Footer() {
                                     </a>
                                 </li>
                                 <li>
-                                    <Link to="/" className="hover:underline">
-                                        Discord
+                                    <Link to="https://www.linkedin.com/in/deygobinda/" className="hover:underline">
+                                        linkdin
                                     </Link>
                                 </li>
                             </ul>
